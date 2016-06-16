@@ -1,6 +1,6 @@
 # _In-vitro_ gut bacterial ecology
 
-![]() This is a collection of image analysis and plotting scripts for the in-vitro gut project. In this project, we grew bacteria in a fancy rubber tube that resembles a mouse gut. The tube has a ceiling that can depress and simulate gut contractions. We grew two synthetic strains of bacteria, termed Producer (P) and Consumer (C), that approximate a more complex bacterial gut metabolism: P eats complex nutrients coming into the gut, and C only eats simple nutrients left over from P.
+![device](https://github.com/igor25/invitro-gut/blob/master/images/minifluidic_device.jpg) This is a collection of image analysis and plotting scripts for the in-vitro gut project. In this project, we grew bacteria in a fancy rubber tube that resembles a mouse gut. The tube has a ceiling that can depress and simulate gut contractions. We grew two synthetic strains of bacteria, termed Producer (P) and Consumer (C), that approximate a more complex bacterial gut metabolism: P eats complex nutrients coming into the gut, and C only eats simple nutrients left over from P.
 
 The code in this repo:
 
