@@ -1,5 +1,8 @@
 # _In-vitro_ gut bacterial ecology
 
+<!---
+Make this smaller
+-->
 <p align=center>
 <img src="https://github.com/igor25/invitro-gut/blob/master/images/minifluidic_device.jpg" />
 </p>
@@ -16,8 +19,10 @@ The code in this repo:
 
 * Python code for plotting the summarized output from R ``python-matplotlib-plots/*.*``. Use matplotlib to generate nice PDF plots.
 
+<!---
 ## Reference:
 
 J. Cremer\*, I. Segota\*, C. Yang, M. Arnoldini, J.T. Sauls, Z. Zhang, E. Gutierrez, A. Groisman & T. Hwa, The effect of flow and peristaltic mixing on bacterial growth in a gut-like channel, under review for Proc. Natl. Acad. Sci. USA (2016)
 
 \* equal contribution
+-->
